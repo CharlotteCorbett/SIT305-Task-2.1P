@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Week1Play</string>
+    <string name="unit_converter">Unit Converter</string>
+    <string name="converting_from">Converting from</string>
+    <string name="calculate">Calculate</string>
+    <string name="unit_type">Unit Type</string>
+    <string name="clear_all">Clear All</string>
+    <string name="source_unit_input">Enter number to convert here</string>
+    <string name="invalid_input_please_enter_a_valid_number">Invalid Input: Please enter a valid number</string>
+    <string name="conversion_result_will_show_here">Conversion result will show here</string>
+    <string name="unitConverterTitle">Unit Converter</string>
+
+    <string-array name="unitTypeArray">
+        <item>Length</item>
+        <item>Temperature</item>
+        <item>Weight</item>
+    </string-array>
+    <string-array name="temperatureOptions">
+        <item>Celsius</item>
+        <item>Fahrenheit</item>
+        <item>Kelvin</item>
+    </string-array>
+    <string-array name="weightOptions">
+        <item>Pound</item>
+        <item>Ounce</item>
+        <item>Ton</item>
+        <item>Gram</item>
+        <item>Kilogram</item>
+    </string-array>
+    <string-array name="lengthOptions">
+        <item>Inch</item>
+        <item>Feet</item>
+        <item>Yard</item>
+        <item>Mile</item>
+        <item>Centimeter</item>
+        <item>Meter</item>
+        <item>Kilometer</item>
+    </string-array>
+
+    <string-array name="defaultArray">
+        <item>Select Unit Type</item>
+    </string-array>
+
+</resources>
